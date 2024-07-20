@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tale Saibalaji.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning Python Programming.
+- 💞️ I'm very excited to share my coding experince.
+- 📫 I achieved 4 stars in Hackerrank by learning C Programming and a bronze batch in Code Chef.
